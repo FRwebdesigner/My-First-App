@@ -5,7 +5,7 @@ const music = new Audio('10.mp3');
 const songs = [
     {
         id:"1",
-        songName:` HeartBreakCity <br>
+        songName:` Living For Love <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/1.jpg"
     },
