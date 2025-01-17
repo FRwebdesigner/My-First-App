@@ -28,14 +28,14 @@ const songs = [
         poster: "img/4.jpg"
     },
     {
-        id:"",
-        songName:` <br>
+        id:"5",
+        songName:` Give It 2 Me <br>
         <div class="subtitle">Madonna</div>`,
-        poster: "img/.jpg"
+        poster: "img/5.jpg"
     },
     {
         id:"6",
-        songName:` Future <br>
+        songName:` I Don't Search I Find <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/6.jpg"
     },
@@ -98,78 +98,6 @@ const songs = [
         songName:` Everybody <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/16.jpg"
-    },
-    {
-        id:"17",
-        songName:` Live To Tell <br>
-        <div class="subtitle">Madonna</div>`,
-        poster: "img/17.jpg"
-    },
-    {
-        id:"18",
-        songName:` She's Not Me <br>
-        <div class="subtitle">Madonna</div>`,
-        poster: "img/18.jpg"
-    },
-    {
-        id:"19",
-        songName:` Turning Tables <br>
-        <div class="subtitle">Adele</div>`,
-        poster: "img/19.jpg"
-    },
-    {
-        id:"20",
-        songName:` Forever Young <br>
-        <div class="subtitle">Rod Stewart</div>`,
-        poster: "img/20.jpg"
-    },
-    {
-        id:"21",
-        songName:` Born This Way <br>
-        <div class="subtitle">Lady Gaga</div>`,
-        poster: "img/21.jpg"
-    },
-    {
-        id:"22",
-        songName:` SOS <br>
-        <div class="subtitle">ABBA</div>`,
-        poster: "img/22.jpg"
-    },
-    {
-        id:"23",
-        songName:` Clocks <br>
-        <div class="subtitle">Coldplay</div>`,
-        poster: "img/23.jpg"
-    },
-    {
-        id:"24",
-        songName:` We Are The Champions <br>
-        <div class="subtitle">Queen</div>`,
-        poster: "img/24.jpg"
-    },
-    {
-        id:"25",
-        songName:` IDOL <br>
-        <div class="subtitle">Yoasobi</div>`,
-        poster: "img/25.jpg"
-    },
-    {
-        id:"26",
-        songName:` Only My Railgun <br>
-        <div class="subtitle">fripSide</div>`,
-        poster: "img/26.jpg"
-    },
-    {
-        id:"27",
-        songName:` Connect <br>
-        <div class="subtitle">Claris</div>`,
-        poster: "img/27.jpg"
-    },
-    {
-        id:"28",
-        songName:` Amazing <br>
-        <div class="subtitle">Madonna</div>`,
-        poster: "img/9.jpg"
     },
 ]
 
