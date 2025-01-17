@@ -1,4 +1,4 @@
-const music = new Audio('10.mp3');
+const music = new Audio('26.mp3');
 
 
 
@@ -158,6 +158,12 @@ const songs = [
         songName:` Stay <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/26.jpg"
+    },
+    {
+        id:"27",
+        songName:` Papa Don't Preach <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/27.jpg"
     },
 ]
 
