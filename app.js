@@ -11,7 +11,7 @@ const songs = [
     },
     {
         id:"2",
-        songName:` I'm Addicted <br>
+        songName:` Girl Gone Wild <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/2.jpg"
     },
@@ -28,10 +28,10 @@ const songs = [
         poster: "img/4.jpg"
     },
     {
-        id:"5",
-        songName:` Lucky Star <br>
+        id:"",
+        songName:` <br>
         <div class="subtitle">Madonna</div>`,
-        poster: "img/5.jpg"
+        poster: "img/.jpg"
     },
     {
         id:"6",
@@ -53,50 +53,50 @@ const songs = [
     },
     {
         id:"9",
-        songName:` What It Feels Like For A Girl <br>
+        songName:` Lucky Star <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/9.jpg"
     },
     {
         id:"10",
-        songName:` Song For The Lonely <br>
-        <div class="subtitle">Cher</div>`,
+        songName:` Borderline <br>
+        <div class="subtitle">Madonna</div>`,
         poster: "img/10.jpg"
     },
     {
         id:"11",
-        songName:` Believe <br>
-        <div class="subtitle">Cher</div>`,
+        songName:` Burning Up <br>
+        <div class="subtitle">Madonna</div>`,
         poster: "img/11.jpg"
     },
     {
         id:"12",
-        songName:` Material Girl <br>
+        songName:` I Know It <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/12.jpg"
     },
     {
         id:"13",
-        songName:` Frozen <br>
+        songName:` Holiday <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/13.jpg"
     },
     {
         id:"14",
-        songName:` Nothing Fails <br>
+        songName:` Think Of Me <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/14.jpg"
     },
     {
         id:"15",
-        songName:` Dark Horse <br>
-        <div class="subtitle">Katy Perry</div>`,
+        songName:` Physical Attaction <br>
+        <div class="subtitle">Madonna</div>`,
         poster: "img/15.jpg"
     },
     {
         id:"16",
-        songName:` If I Could Turn Back Time <br>
-        <div class="subtitle">Cher</div>`,
+        songName:` Everybody <br>
+        <div class="subtitle">Madonna</div>`,
         poster: "img/16.jpg"
     },
     {
