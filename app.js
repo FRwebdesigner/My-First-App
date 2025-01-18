@@ -213,6 +213,78 @@ const songs = [
         <div class="subtitle">Madonna</div>`,
         poster: "img/35.jpg"
     },
+    {
+        id:"36",
+        songName:` Like A Prayer <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/36.jpg"
+    },
+    {
+        id:"37",
+        songName:` Express Yourself <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/37.jpg"
+    },
+    {
+        id:"38",
+        songName:` Love Song <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/38.jpg"
+    },
+    {
+        id:"39",
+        songName:` Till Death Do Us Part <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/39.jpg"
+    },
+    {
+        id:"40",
+        songName:` Promise To Try <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/40.jpg"
+    },
+    {
+        id:"41",
+        songName:` Cherish <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/41.jpg"
+    },
+    {
+        id:"42",
+        songName:` Dear Jessie <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/42.jpg"
+    },
+    {
+        id:"43",
+        songName:` Oh Father <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/43.jpg"
+    },
+    {
+        id:"44",
+        songName:` Keep It Together <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/44.jpg"
+    },
+    {
+        id:"45",
+        songName:` Spanish Eyes <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/45.jpg"
+    },
+    {
+        id:"46",
+        songName:` Act Of Contrition <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/46.jpg"
+    },
+    {
+        id:"47",
+        songName:` Supernatural <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/47.jpg"
+    },
 ]
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
