@@ -369,6 +369,72 @@ const songs = [
         <div class="subtitle">Madonna</div>`,
         poster: "img/61.jpg"
     },
+    {
+        id:"62",
+        songName:` Survival <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/62.jpg"
+    },
+    {
+        id:"63",
+        songName:` Secret <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/63.jpg"
+    },
+    {
+        id:"64",
+        songName:` I'd Rather Be Your Lover <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/64.jpg"
+    },
+    {
+        id:"65",
+        songName:` Don't Stop <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/65.jpg"
+    }, 
+    {
+        id:"66",
+        songName:` Inside Of Me <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/66.jpg"
+    }, 
+    {
+        id:"67",
+        songName:` Human Nature <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/67.jpg"
+    }, 
+    {
+        id:"68",
+        songName:` Forbidden Love <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/68.jpg"
+    }, 
+    {
+        id:"69",
+        songName:` Love Tried To Welcome Me <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/69.jpg"
+    },
+    {
+        id:"70",
+        songName:` Sanctuary <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/70.jpg"
+    },
+    {
+        id:"71",
+        songName:` Bedtime Story <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/71.jpg"
+    },
+    {
+        id:"72",
+        songName:` Take A Bow <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/72.jpg"
+    },
 ]
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
