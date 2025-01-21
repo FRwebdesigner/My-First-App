@@ -285,6 +285,90 @@ const songs = [
         <div class="subtitle">Madonna</div>`,
         poster: "img/47.jpg"
     },
+    {
+        id:"48",
+        songName:` Erotica <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/48.jpg"
+    },
+    {
+        id:"49",
+        songName:` Fever <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/49.jpg"
+    },
+    {
+        id:"50",
+        songName:` Bye Bye Baby <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/50.jpg"
+    },
+    {
+        id:"51",
+        songName:` Deeper And Deeper <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/51.jpg"
+    },
+    {
+        id:"52",
+        songName:` Where Life Begins <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/52.jpg"
+    },
+    {
+        id:"53",
+        songName:` Bad Girl <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/53.jpg"
+    },
+    {
+        id:"54",
+        songName:` Waiting <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/54.jpg"
+    },
+    {
+        id:"55",
+        songName:` Thief Of Hearts <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/55.jpg"
+    },
+    {
+        id:"56",
+        songName:` Words <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/56.jpg"
+    },
+    {
+        id:"57",
+        songName:` Rain <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/57.jpg"
+    },
+    {
+        id:"58",
+        songName:` Why's It So Hard <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/58.jpg"
+    },
+    {
+        id:"59",
+        songName:` In This Life <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/59.jpg"
+    },
+    {
+        id:"60",
+        songName:` Did You Do It? <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/60.jpg"
+    },
+    {
+        id:"61",
+        songName:` Secret Garden <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/61.jpg"
+    },
 ]
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
