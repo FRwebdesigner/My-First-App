@@ -435,6 +435,90 @@ const songs = [
         <div class="subtitle">Madonna</div>`,
         poster: "img/72.jpg"
     },
+    {
+        id:"73",
+        songName:` Drowned World / Substitute For Love <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/73.jpg"
+    },
+    {
+        id:"74",
+        songName:` Swim <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/74.jpg"
+    },
+    {
+        id:"75",
+        songName:` Ray Of Light <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/75.jpg"
+    },
+    {
+        id:"76",
+        songName:` Candy Perfume Girl <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/76.jpg"
+    },
+    {
+        id:"77",
+        songName:` Skin <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/77.jpg"
+    },
+    {
+        id:"78",
+        songName:` Nothing Really Matters <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/78.jpg"
+    },
+    {
+        id:"79",
+        songName:` Sky Fits Heaven <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/79.jpg"
+    },
+    {
+        id:"80",
+        songName:` Shanti / Ashtangi <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/80.jpg"
+    },
+    {
+        id:"81",
+        songName:` Frozen <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/81.jpg"
+    },
+    {
+        id:"82",
+        songName:` The Power Of Good-Bye <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/82.jpg"
+    },
+    {
+        id:"83",
+        songName:` To Have And Not To Hold <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/83.jpg"
+    },
+    {
+        id:"84",
+        songName:` Little Star <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/84.jpg"
+    },
+    {
+        id:"85",
+        songName:` Mer Girl <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/85.jpg"
+    },
+    {
+        id:"86",
+        songName:` Has To Be <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/86.jpg"
+    },    
 ]
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
