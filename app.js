@@ -518,7 +518,79 @@ const songs = [
         songName:` Has To Be <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/86.jpg"
+    },   
+    {
+        id:"88",
+        songName:` Music <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/88.jpg"
+    },  
+    {
+        id:"89",
+        songName:` Impressive Instant <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/89.jpg"
     },    
+    {
+        id:"90",
+        songName:` Runaway Lover <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/90.jpg"
+    }, 
+    {
+        id:"91",
+        songName:` I Deserve It <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/91.jpg"
+    },   
+    {
+        id:"92",
+        songName:` Amazing <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/92.jpg"
+    }, 
+    {
+        id:"93",
+        songName:` Nobody's Perfect <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/93.jpg"
+    },   
+    {
+        id:"94",
+        songName:` Don't Tell Me <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/94.jpg"
+    },  
+    {
+        id:"95",
+        songName:` What It Feels Like For A Girl <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/95.jpg"
+    },   
+    {
+        id:"96",
+        songName:` Paradise (Not For Me) <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/96.jpg"
+    },    
+    {
+        id:"97",
+        songName:` Gone <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/97.jpg"
+    },   
+    {
+        id:"98",
+        songName:` American Pie <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/98.jpg"
+    },  
+    {
+        id:"99",
+        songName:` Cyber-Raga <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/99.jpg"
+    },  
 ]
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
