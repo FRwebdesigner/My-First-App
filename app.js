@@ -520,77 +520,143 @@ const songs = [
         poster: "img/86.jpg"
     },   
     {
-        id:"88",
+        id:"87",
         songName:` Music <br>
         <div class="subtitle">Madonna</div>`,
-        poster: "img/88.jpg"
+        poster: "img/87.jpg"
     },  
     {
-        id:"89",
+        id:"88",
         songName:` Impressive Instant <br>
         <div class="subtitle">Madonna</div>`,
-        poster: "img/89.jpg"
+        poster: "img/88.jpg"
     },    
     {
-        id:"90",
+        id:"89",
         songName:` Runaway Lover <br>
         <div class="subtitle">Madonna</div>`,
-        poster: "img/90.jpg"
+        poster: "img/89.jpg"
     }, 
     {
-        id:"91",
+        id:"90",
         songName:` I Deserve It <br>
         <div class="subtitle">Madonna</div>`,
-        poster: "img/91.jpg"
+        poster: "img/90.jpg"
     },   
     {
-        id:"92",
+        id:"91",
         songName:` Amazing <br>
         <div class="subtitle">Madonna</div>`,
-        poster: "img/92.jpg"
+        poster: "img/91.jpg"
     }, 
     {
-        id:"93",
+        id:"92",
         songName:` Nobody's Perfect <br>
         <div class="subtitle">Madonna</div>`,
-        poster: "img/93.jpg"
+        poster: "img/92.jpg"
     },   
     {
-        id:"94",
+        id:"93",
         songName:` Don't Tell Me <br>
         <div class="subtitle">Madonna</div>`,
-        poster: "img/94.jpg"
+        poster: "img/93.jpg"
     },  
     {
-        id:"95",
+        id:"94",
         songName:` What It Feels Like For A Girl <br>
         <div class="subtitle">Madonna</div>`,
-        poster: "img/95.jpg"
+        poster: "img/94.jpg"
     },   
     {
-        id:"96",
+        id:"95",
         songName:` Paradise (Not For Me) <br>
         <div class="subtitle">Madonna</div>`,
-        poster: "img/96.jpg"
+        poster: "img/95.jpg"
     },    
     {
-        id:"97",
+        id:"96",
         songName:` Gone <br>
         <div class="subtitle">Madonna</div>`,
-        poster: "img/97.jpg"
+        poster: "img/96.jpg"
     },   
     {
-        id:"98",
+        id:"97",
         songName:` American Pie <br>
         <div class="subtitle">Madonna</div>`,
-        poster: "img/98.jpg"
+        poster: "img/97.jpg"
     },  
     {
-        id:"99",
+        id:"98",
         songName:` Cyber-Raga <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/98.jpg"
+    },
+    {
+        id:"99",
+        songName:` American Life <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/99.jpg"
     },  
+    {
+        id:"100",
+        songName:` Hollywood <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/100.jpg"
+    },  
+    {
+        id:"101",
+        songName:` I'm So Stupid <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/101.jpg"
+    },  
+    {
+        id:"102",
+        songName:` Love Profusion <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/102.jpg"
+    },  
+    {
+        id:"103",
+        songName:` Nobody Knows Me <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/103.jpg"
+    }, 
+    {
+        id:"104",
+        songName:` Nothing Fails <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/104.jpg"
+    }, 
+    {
+        id:"105",
+        songName:` Intervention <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/105.jpg"
+    }, 
+    {
+        id:"106",
+        songName:` X-Static Process <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/106.jpg"
+    }, 
+    {
+        id:"107",
+        songName:` Mother And Father <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/107.jpg"
+    }, 
+    {
+        id:"108",
+        songName:` Die Another Day <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/108.jpg"
+    }, 
+    {
+        id:"109",
+        songName:` Easy Ride <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/109.jpg"
+    }, 
 ]
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
