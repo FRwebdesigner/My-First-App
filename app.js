@@ -657,6 +657,168 @@ const songs = [
         <div class="subtitle">Madonna</div>`,
         poster: "img/109.jpg"
     }, 
+    {
+        id:"110",
+        songName:` Hung Up <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/110.jpg"
+    }, 
+    {
+        id:"111",
+        songName:` Get Together <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/111.jpg"
+    }, 
+    {
+        id:"112",
+        songName:` Sorry <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/112.jpg"
+    }, 
+    {
+        id:"113",
+        songName:` Future Lovers <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/113.jpg"
+    }, 
+    {
+        id:"114",
+        songName:` I Love New York <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/114.jpg"
+    }, 
+    {
+        id:"115",
+        songName:` Let It Will Be <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/115.jpg"
+    }, 
+    {
+        id:"116",
+        songName:` Forbidden Love <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/116.jpg"
+    }, 
+    {
+        id:"117",
+        songName:` Jump <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/117.jpg"
+    }, 
+    {
+        id:"118",
+        songName:` How High <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/118.jpg"
+    }, 
+    {
+        id:"119",
+        songName:` Isaac <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/119.jpg"
+    }, 
+    {
+        id:"120",
+        songName:` Push <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/120.jpg"
+    }, 
+    {
+        id:"121",
+        songName:` Like It Or Not <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/121.jpg"
+    }, 
+    {
+        id:"122",
+        songName:` Fighting Spirit <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/122.jpg"
+    }, 
+    {
+        id:"123",
+        songName:` Super Pop <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/123.jpg"
+    }, 
+    {
+        id:"124",
+        songName:` Candy Shop <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/124.jpg"
+    }, 
+    {
+        id:"125",
+        songName:` 4 Minutes <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/125.jpg"
+    }, 
+    {
+        id:"126",
+        songName:` Give It 2 Me <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/126.jpg"
+    }, 
+    {
+        id:"127",
+        songName:` Heartbeat <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/127.jpg"
+    }, 
+    {
+        id:"128",
+        songName:` Miles Away <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/128.jpg"
+    }, 
+    {
+        id:"129",
+        songName:` She's Not Me <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/129.jpg"
+    }, 
+    {
+        id:"130",
+        songName:` Incredible <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/130.jpg"
+    }, 
+    {
+        id:"131",
+        songName:` Beat Goes On <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/131.jpg"
+    }, 
+    {
+        id:"132",
+        songName:` Dance 2Night <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/132.jpg"
+    }, 
+    {
+        id:"133",
+        songName:` Spanish Lesson <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/133.jpg"
+    }, 
+    {
+        id:"134",
+        songName:` Devil Wouldn't Recognize You <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/134.jpg"
+    }, 
+    {
+        id:"135",
+        songName:` Voices <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/135.jpg"
+    }, 
+    {
+        id:"136",
+        songName:` Ring My Bell <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/136.jpg"
+    }, 
 ]
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
