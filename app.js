@@ -1059,6 +1059,114 @@ const songs = [
         <div class="subtitle">Madonna</div>`,
         poster: "img/176.jpg"
     }, 
+    {
+        id:"177",
+        songName:` Medellín <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/177.jpg"
+    }, 
+    {
+        id:"178",
+        songName:` Dark Ballet <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/178.jpg"
+    }, 
+    {
+        id:"179",
+        songName:` God Control <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/179.jpg"
+    }, 
+    {
+        id:"180",
+        songName:` Future <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/180.jpg"
+    }, 
+    {
+        id:"181",
+        songName:` Batuka <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/181.jpg"
+    }, 
+    {
+        id:"182",
+        songName:` Killers Who Are Partying <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/182.jpg"
+    }, 
+    {
+        id:"183",
+        songName:` Crave <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/183.jpg"
+    }, 
+    {
+        id:"184",
+        songName:` Crazy <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/184.jpg"
+    }, 
+    {
+        id:"185",
+        songName:`  Come Alive <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/185.jpg"
+    }, 
+    {
+        id:"186",
+        songName:` Extreme Occident <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/186.jpg"
+    }, 
+    {
+        id:"187",
+        songName:` Faz Gostoso <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/187.jpg"
+    }, 
+    {
+        id:"188",
+        songName:` Bitch I'm Loca <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/188.jpg"
+    }, 
+    {
+        id:"189",
+        songName:` I Don't Search I Find <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/189.jpg"
+    }, 
+    {
+        id:"190",
+        songName:` Looking For Mercy <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/190.jpg"
+    }, 
+    {
+        id:"191",
+        songName:` I Rise <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/191.jpg"
+    }, 
+    {
+        id:"192",
+        songName:` Funana <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/192.jpg"
+    }, 
+    {
+        id:"193",
+        songName:` Back That Up To The Beat <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/193.jpg"
+    }, 
+    {
+        id:"194",
+        songName:` Ciao Bella <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/194.jpg"
+    }, 
 ]
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
