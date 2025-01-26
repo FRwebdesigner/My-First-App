@@ -915,6 +915,150 @@ const songs = [
         <div class="subtitle">Madonna</div>`,
         poster: "img/152.jpg"
     }, 
+    {
+        id:"153",
+        songName:` Living For Love <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/153.jpg"
+    }, 
+    {
+        id:"154",
+        songName:` Devil Pray <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/154.jpg"
+    }, 
+    {
+        id:"155",
+        songName:` Ghosttown <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/155.jpg"
+    }, 
+    {
+        id:"156",
+        songName:` Unapologetic Bitch <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/156.jpg"
+    }, 
+    {
+        id:"157",
+        songName:` Illuminati <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/157.jpg"
+    }, 
+    {
+        id:"158",
+        songName:` Bitch I'm Madonna <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/158.jpg"
+    }, 
+    {
+        id:"159",
+        songName:` Hold Tight <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/159.jpg"
+    }, 
+    {
+        id:"160",
+        songName:` Joan Of Arc <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/160.jpg"
+    }, 
+    {
+        id:"161",
+        songName:` Iconic <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/161.jpg"
+    }, 
+    {
+        id:"162",
+        songName:` HeartBreakCity <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/162.jpg"
+    }, 
+    {
+        id:"163",
+        songName:` Body Shop <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/163.jpg"
+    }, 
+    {
+        id:"164",
+        songName:` Holy Water <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/164.jpg"
+    }, 
+    {
+        id:"165",
+        songName:` Inside Out <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/165.jpg"
+    }, 
+    {
+        id:"166",
+        songName:` Wash All Over Me <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/166.jpg"
+    }, 
+    {
+        id:"167",
+        songName:` Best Night <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/167.jpg"
+    }, 
+    {
+        id:"168",
+        songName:` Veni Vidi Vici <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/168.jpg"
+    }, 
+    {
+        id:"169",
+        songName:` S.E.X. <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/169.jpg"
+    }, 
+    {
+        id:"170",
+        songName:` Messiah <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/170.jpg"
+    }, 
+    {
+        id:"171",
+        songName:` Rebel Heart <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/171.jpg"
+    }, 
+    {
+        id:"172",
+        songName:` Auto-Tune Baby <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/172.jpg"
+    }, 
+    {
+        id:"173",
+        songName:` Beautiful Scars <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/173.jpg"
+    }, 
+    {
+        id:"174",
+        songName:` Borrowed Time <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/174.jpg"
+    }, 
+    {
+        id:"175",
+        songName:` Addicted <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/175.jpg"
+    }, 
+    {
+        id:"176",
+        songName:` Graffiti Heart <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/176.jpg"
+    }, 
 ]
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
