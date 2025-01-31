@@ -1168,10 +1168,22 @@ const songs = [
         poster: "img/194.jpg"
     }, 
     {
-        id:"196",
+        id:"195",
         songName:` Ain't No Big Deal <br>
         <div class="subtitle">Madonna</div>`,
+        poster: "img/195.jpg"
+    },
+    {
+        id:"196",
+        songName:` Gambler <br>
+        <div class="subtitle">Madonna</div>`,
         poster: "img/196.jpg"
+    },
+    {
+        id:"197",
+        songName:` Crazy For You <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/197.jpg"
     },
 ]
 
