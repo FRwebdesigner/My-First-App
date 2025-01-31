@@ -1167,6 +1167,12 @@ const songs = [
         <div class="subtitle">Madonna</div>`,
         poster: "img/194.jpg"
     }, 
+    {
+        id:"196",
+        songName:` Ain't No Big Deal <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/196.jpg"
+    },
 ]
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
