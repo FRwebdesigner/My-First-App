@@ -1191,6 +1191,48 @@ const songs = [
         <div class="subtitle">Madonna</div>`,
         poster: "img/198.jpg"
     },
+    {
+        id:"199",
+        songName:` Who's That Girl <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/199.jpg"
+    },
+    {
+        id:"200",
+        songName:` Causing A Commotion <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/200.jpg"
+    },
+    {
+        id:"201",
+        songName:` The Look Of Love <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/201.jpg"
+    },
+    {
+        id:"202",
+        songName:` Can't Stop <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/202.jpg"
+    },
+    {
+        id:"203",
+        songName:` Spotlight <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/203.jpg"
+    },
+    {
+        id:"204",
+        songName:` Each Time You Break My Heart <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/204.jpg"
+    },
+    {
+        id:"205",
+        songName:` Tell Me <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/205.jpg"
+    },
 ]
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
