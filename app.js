@@ -1233,6 +1233,24 @@ const songs = [
         <div class="subtitle">Madonna</div>`,
         poster: "img/205.jpg"
     },
+    {
+        id:"206",
+        songName:` I Surrender Dear <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/206.jpg"
+    },
+    {
+        id:"207",
+        songName:` Just A Dream <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/207.jpg"
+    },
+    {
+        id:"208",
+        songName:` Angels With Dirty Faces <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/208.jpg"
+    },
 ]
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
