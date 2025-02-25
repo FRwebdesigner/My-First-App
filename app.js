@@ -1293,6 +1293,18 @@ const songs = [
         <div class="subtitle">Madonna</div>`,
         poster: "img/215.jpg"
     },
+    {
+        id:"216",
+        songName:` Love Won't Wait <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/216.jpg"
+    },
+    {
+        id:"217",
+        songName:` Let Your Guard Down <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/217.jpg"
+    },
 ]
 
 Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
