@@ -1193,7 +1193,7 @@ const songs = [
     },
     {
         id:"199",
-        songName:` Who's That Girl  (Quien Es Esa Chica?) <br>
+        songName:` Who's That Girl <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/199.jpg"
     },
@@ -1301,27 +1301,33 @@ const songs = [
     },
     {
         id:"217",
-        songName:` Love Won't Wait <br>
+        songName:` Straight Pass<br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/217.jpg"
     },
     {
         id:"218",
-        songName:` Let Your Guard Down <br>
+        songName:` Love Won't Wait <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/218.jpg"
     },
     {
         id:"219",
-        songName:` Your Honesty <br>
+        songName:` Let Your Guard Down <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/219.jpg"
     },
     {
         id:"220",
-        songName:` Freedom <br>
+        songName:` Your Honesty <br>
         <div class="subtitle">Madonna</div>`,
         poster: "img/220.jpg"
+    },
+    {
+        id:"221",
+        songName:` Freedom <br>
+        <div class="subtitle">Madonna</div>`,
+        poster: "img/221.jpg"
     },
 ]
 
